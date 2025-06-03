@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML-CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson1/img/space.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson1/lesson1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson1/lesson1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/hw1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/hw1.2..html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/hw1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/hw1.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "drkslr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/drkslr/my.git",
+    "accountId": "ffb96d4b-ece0-4477-aec8-b97f877c46f1"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lesson1/lesson1.1.html" root0="SKIP_INSPECTION" />
   </component>
@@ -80,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748960507402</updated>
-      <workItem from="1748960508403" duration="13285000" />
+      <workItem from="1748960508403" duration="15215000" />
     </task>
     <servers />
   </component>
