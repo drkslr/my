@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/hw1.3..html" afterDir="false" />
+    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="Сторінка про кольори — фон та стилізація. Виправлено відступи, прибрано зайві теги, очищено CSS">
+      <change afterPath="$PROJECT_DIR$/homework/hw1.4..html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/lesson1/lesson1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/lesson1/lesson1.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.hw.1.5..html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,6 +76,16 @@
       <recent name="$PROJECT_DIR$/lesson1/img" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="hw.1.5..html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/homework/hw.1.5..html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hw.1.5..html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,11 +100,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748960507402</updated>
-      <workItem from="1748960508403" duration="20266000" />
+      <workItem from="1748960508403" duration="23407000" />
     </task>
+    <task id="LOCAL-00001" summary="Сторінка про кольори — фон та стилізація">
+      <option name="closed" value="true" />
+      <created>1748988966193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748988966193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Сторінка про кольори — фон та стилізація. Виправлено відступи, прибрано зайві теги, очищено CSS">
+      <option name="closed" value="true" />
+      <created>1748989224290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748989224290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сторінка про кольори — фон та стилізація" />
+    <MESSAGE value="Сторінка про кольори — фон та стилізація. Виправлено відступи, прибрано зайві теги, очищено CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сторінка про кольори — фон та стилізація. Виправлено відступи, прибрано зайві теги, очищено CSS" />
   </component>
 </project>
