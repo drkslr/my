@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    display: flex;
+    gap: 20px;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: #cc7fee;
+    transition: 1s;
+}
+.block:hover {
+    background-color: #523024;
+    border-radius: 50%;
+}
