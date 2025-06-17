@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    height: 50vh;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.top {
+    background-color: #fbb6c2;
+    color: #000;
+}
+
+.bottom {
+    background-color: #222;
+    color: #fff;
+}

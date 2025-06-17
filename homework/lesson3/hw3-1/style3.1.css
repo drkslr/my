@@ -1,0 +1,30 @@
+body{
+    margin: 2%;
+
+}
+header{
+    height: 60vh;
+    background-color: cornflowerblue;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5% 0;
+}
+section{
+    height: 50vh;
+    width: 32%;
+    background-color: #19438d;
+}
+footer{
+    height: 90vh;
+    background-color: cornflowerblue;
+}
+header, section, footer{
+    color: white;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
