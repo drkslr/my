@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100vw;
+    height: 4.48vh;
+    background: #D9D9D9;
+}
+
+footer {
+    width: 100vw;
+    height: 11.9vh;
+    background: #AFA9A9;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.top-section {
+    display: flex;
+    width: 100vw;
+}
+
+.content {
+    width: 59.38vw;
+    height: 73.7vh;
+    background: #A4A4A4;
+}
+
+.right-block {
+    display: flex;
+    flex-direction: column;
+    width: 40.62vw;
+}
+
+.right-top {
+    height: 39.84vh;
+    background: #7F7A7A;
+}
+
+.right-bottom {
+    height: 33.84vh;
+    background: #615050;
+}
+
+.wide {
+    width: 100vw;
+    height: 9.94vh;
+    background: #D9D9D9;
+}
