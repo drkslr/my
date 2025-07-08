@@ -1,42 +1,35 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-body, html {
-    height: 100vh;
 }
 
 header, footer {
-    height: 14vh;
-    width: 100vw;
+    height: 21.85vh;
     background-color: #D9D9D9;
 }
 
 main {
     display: flex;
-    height: 72vh;
-    width: 100vw;
+    height: 56.3vh;
 }
 
 .side {
-    width: 26.8vw; /* 464px из 1728px ≈ 26.8% */
+    width: 26.85vw;
     background-color: #C0BDBD;
 }
 
 .center {
-    flex: 1;
+    width: 46.3vw;
     display: flex;
     flex-direction: column;
 }
 
 .top-center {
-    height: 46.4%; /* 292px из 629px */
+    height: 26.13vh;
     background-color: #827878;
 }
 
 .bottom-center {
-    height: 53.6%; /* 337px из 629px */
+    height: 30.16vh;
     background-color: #B7ADAD;
 }
