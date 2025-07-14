@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="зробила hw 3 повністю">
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/service.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson3/Allan/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/img/Hero 3D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/Figma/lesson4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/Figma/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/Shirley Lites - Heat You Up (Melt You Down).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/block structure/lesson 4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/block structure/lesson 4.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/lesson4.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson4/lesson4.1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-1/hw4.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-2/hw4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-3/hw4.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-3/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-4/hw4.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson4/hw4-4/style.css" afterDir="false" />
+    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="зробила hw 4 повністю">
+      <change afterPath="$PROJECT_DIR$/classwork/lesson5/lesson5.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson5/lesson5.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Burgers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Fries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/People.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Loader1/loader1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/Loader1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/loader2/loader2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson5/loader2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,11 +86,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/lesson5" />
+      <recent name="$PROJECT_DIR$/classwork/lesson5/Burgers/img" />
+      <recent name="$PROJECT_DIR$/classwork/lesson5" />
       <recent name="$PROJECT_DIR$/homework/lesson4/hw4-1" />
       <recent name="$PROJECT_DIR$/classwork/lesson4/ logoipsum/img" />
-      <recent name="$PROJECT_DIR$/classwork/lesson4" />
-      <recent name="$PROJECT_DIR$/homework/lesson3/hw3-1" />
-      <recent name="$PROJECT_DIR$/homework/lesson2/hw2-3" />
     </key>
   </component>
   <component name="RunManager">
@@ -151,7 +139,8 @@
       <workItem from="1750868938731" duration="7219000" />
       <workItem from="1751018056421" duration="5000" />
       <workItem from="1751270140643" duration="2122000" />
-      <workItem from="1751907000608" duration="4664000" />
+      <workItem from="1751907000608" duration="6207000" />
+      <workItem from="1751957901453" duration="10460000" />
     </task>
     <task id="LOCAL-00001" summary="Сторінка про кольори — фон та стилізація">
       <option name="closed" value="true" />
@@ -233,11 +222,38 @@
       <option name="project" value="LOCAL" />
       <updated>1750155044955</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="зробила hw 4 повністю">
+      <option name="closed" value="true" />
+      <created>1751916278699</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751916278699</updated>
+    </task>
+    <task id="LOCAL-00012" summary="зробила hw 4 повністю">
+      <option name="closed" value="true" />
+      <created>1751983193376</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751983193376</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сторінка про кольори — фон та стилізація" />
@@ -250,6 +266,7 @@
     <MESSAGE value="зробила hw.2.2 - hw.2.4" />
     <MESSAGE value="переробила структуру та hw 2.1" />
     <MESSAGE value="зробила hw 3 повністю" />
-    <option name="LAST_COMMIT_MESSAGE" value="зробила hw 3 повністю" />
+    <MESSAGE value="зробила hw 4 повністю" />
+    <option name="LAST_COMMIT_MESSAGE" value="зробила hw 4 повністю" />
   </component>
 </project>
