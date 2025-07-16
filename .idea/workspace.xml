@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="зробила hw 4 повністю">
-      <change afterPath="$PROJECT_DIR$/classwork/lesson5/lesson5.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson5/lesson5.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Burger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Burgers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/Fries.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/img/People.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Burgers/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Loader1/loader1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/Loader1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/loader2/loader2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson5/loader2/style.css" afterDir="false" />
+    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="зробила hw 5">
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/lesson6/lesson6.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-1/hw6.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-2/hw6.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-3/hw6.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson6/hw6-3/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +142,8 @@
       <workItem from="1751270140643" duration="2122000" />
       <workItem from="1751907000608" duration="6207000" />
       <workItem from="1751957901453" duration="10460000" />
+      <workItem from="1752493421342" duration="42000" />
+      <workItem from="1752581505696" duration="12647000" />
     </task>
     <task id="LOCAL-00001" summary="Сторінка про кольори — фон та стилізація">
       <option name="closed" value="true" />
@@ -238,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751983193376</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="зробила hw 5">
+      <option name="closed" value="true" />
+      <created>1752493458498</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752493458498</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +278,7 @@
     <MESSAGE value="переробила структуру та hw 2.1" />
     <MESSAGE value="зробила hw 3 повністю" />
     <MESSAGE value="зробила hw 4 повністю" />
-    <option name="LAST_COMMIT_MESSAGE" value="зробила hw 4 повністю" />
+    <MESSAGE value="зробила hw 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="зробила hw 5" />
   </component>
 </project>

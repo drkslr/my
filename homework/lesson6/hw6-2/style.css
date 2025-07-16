@@ -1,0 +1,71 @@
+/* Загальні стилі */
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #008080;
+    height: 100vh;
+}
+
+/* Центруємо все на екрані */
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Біла картка */
+.login-card {
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+}
+
+/* Верхня панель */
+.login-header {
+    background-color: #e0f0ef;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Форма */
+.login-form {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+}
+
+/* Нижня частина форми */
+.form-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remember-me {
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 18px;
+    border: 1px solid #ccc;
+    background-color: #e0f0ef;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}

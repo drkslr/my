@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul li::after{
+            content: "!!!!!!!!";
+            color: red;
+        }
+        ul{
+            padding-inline-start: 10px;
+        }
+        ul li{
+            list-style-type: none;
+        }
+        ul li::before{
+            content: "";
+            width: 10px;
+            height: 10px;
+            margin-right: 10px;
+            background-image: url("data:image/png;base64,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");
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+<ul>
+    <li>Lorem ipsum dolor sit.</li>
+    <li>Consequuntur corporis nulla sequi?</li>
+    <li>Alias aliquid dignissimos non.</li>
+    <li>Ab hic in nihil?</li>
+    <li>Deserunt hic illo pariatur!</li>
+    <li>Impedit quis sapiente voluptatibus.</li>
+    <li>Expedita quam quia voluptate.</li>
+    <li>Nam nesciunt odit quos!</li>
+    <li>Architecto debitis eaque nam!</li>
+    <li>Cumque deserunt quo voluptatibus.</li>
+</ul>
+</body>
+</html>
