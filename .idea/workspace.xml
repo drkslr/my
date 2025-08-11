@@ -4,30 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="виправила hw 6.3">
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339 (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/img/higly-rated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/lesson7.7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/lesson7/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/hw7.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Battle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Chessboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Ds3 Tool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Ellipse 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Ellipse 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/img/Ellipse 3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-2/img/LED.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-2/lesson7.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/lesson7/hw7-2/style.css" afterDir="false" />
+    <list default="true" id="eb87e067-a062-42f8-bc83-8a814ce48525" name="Changes" comment="виправила hw 7">
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/Page Not Found/page-not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/Page Not Found/style-0-480.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/Page Not Found/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/adaptive/lesson8.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/adaptive/style-0-480.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/adaptive/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/lesson8.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/lesson8.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/style-0-480.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/style-481-768.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/Lesson 8/style-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/hw8.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/Bootstrap Based Design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/More than Design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/More than Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/Nicole Milton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/Prototyping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/img/Startup Framework Generator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/style-0-480.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/style-769-1279.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/hw8.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/img/Analyze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/img/Capture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/img/Improve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/img/Succeed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/style-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/style-tablet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/lesson8/hw8-2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson1/img/space.avif" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 1/img/space.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson1/lesson1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 1/lesson1.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson1/lesson1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 1/lesson1.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson2/Lesson 2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 2/Lesson 2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson2/Lesson 2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 2/Lesson 2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson2/Lesson 2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 2/Lesson 2.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson2/Lesson 2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 2/Lesson 2.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson2/style2.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 2/style2.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/Allan/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/Allan/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/lesson3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/lesson3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/lesson3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/lesson3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/lesson3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/lesson3.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/lesson3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/lesson3.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 3/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/img/Hero 3D.png" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/ logoipsum/img/Hero 3D.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/ logoipsum/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/ logoipsum/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/ logoipsum/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/Figma/lesson4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/Figma/lesson4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/Figma/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/Figma/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/Shirley Lites - Heat You Up (Melt You Down).mp3" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/Shirley Lites - Heat You Up (Melt You Down).mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/block structure/lesson 4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/block structure/lesson 4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/block structure/lesson 4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/block structure/lesson 4.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/lesson4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/lesson4.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson4/lesson4.1.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 4/lesson4.1.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson5/lesson5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 5/lesson5.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson5/lesson5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 5/lesson5.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson6/lesson6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 6/lesson6.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339 (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/img/Frame 339 (1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339 (2).png" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/img/Frame 339 (2).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/img/Frame 339.png" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/img/Frame 339.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/img/higly-rated.png" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/img/higly-rated.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/lesson7.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/lesson7.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/lesson7/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/Lesson 7/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +96,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -96,11 +155,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/lesson8/hw8-2/img" />
+      <recent name="$PROJECT_DIR$/homework/lesson8/hw8-1/img" />
       <recent name="$PROJECT_DIR$/homework/lesson7/hw7-2/img" />
       <recent name="$PROJECT_DIR$/homework/lesson7/hw7-1/img" />
       <recent name="$PROJECT_DIR$/classwork/lesson7/img" />
-      <recent name="$PROJECT_DIR$/homework/lesson5" />
-      <recent name="$PROJECT_DIR$/classwork/lesson5/Burgers/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -159,6 +218,10 @@
       <workItem from="1752873451969" duration="11028000" />
       <workItem from="1752951759449" duration="4288000" />
       <workItem from="1752958448697" duration="2624000" />
+      <workItem from="1753092781396" duration="8062000" />
+      <workItem from="1753874324809" duration="2842000" />
+      <workItem from="1754398127103" duration="5547000" />
+      <workItem from="1754648330320" duration="6760000" />
     </task>
     <task id="LOCAL-00001" summary="Сторінка про кольори — фон та стилізація">
       <option name="closed" value="true" />
@@ -280,7 +343,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752692205937</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="виконала hw 7">
+      <option name="closed" value="true" />
+      <created>1753092820052</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753092820052</updated>
+    </task>
+    <task id="LOCAL-00017" summary="виправила hw 7">
+      <option name="closed" value="true" />
+      <created>1753101941145</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753101941145</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +391,8 @@
     <MESSAGE value="зробила hw 5" />
     <MESSAGE value="зробила hw 6" />
     <MESSAGE value="виправила hw 6.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="виправила hw 6.3" />
+    <MESSAGE value="виконала hw 7" />
+    <MESSAGE value="виправила hw 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="виправила hw 7" />
   </component>
 </project>
