@@ -1,0 +1,11 @@
+.grid-wrapper{
+    height: 150vh;
+    display: grid;
+    border: 1px solid ;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
