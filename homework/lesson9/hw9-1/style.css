@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: #fff;
+    overflow: hidden;
+}
+
+.wrap {
+    display: grid;
+    width: 1728px;
+    height: 100vh;
+    grid-template-rows: 21.85vh 56.33vh 21.85vh;
+}
+header {
+    background: #D9D9D9;
+}
+main{
+    background: #A4A4A4;
+}
+footer {
+    background: #D9D9D9;
+}
+
+
+

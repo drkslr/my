@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+.wrapper {
+    display: grid;
+    grid-template-rows: 80px 1fr 80px;
+    height: 100vh;
+}
+header {
+    background: #d9d9d9;
+}
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.left {
+    background: #a0a0a0;
+}
+.middle {
+    background: #c0c0c0;
+}
+.right {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.top-right {
+    background: #7a7373;
+}
+.bottom-right {
+    background: #5c5555;
+}
+footer {
+    background: #d9d9d9;
+}

@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+}
+.wrapper{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 1fr 0.5fr 0.5fr 1fr 1fr;
+    grid-template-areas:
+    "header header"
+    "content-1 spam-1"
+    "content-2 spam-1"
+    "content-2 spam-2"
+    "content-3 spam-2"
+    "footer footer";
+}
+.wrapper header{
+    grid-area: header;
+    background: #8D8484;
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper section:nth-child(2){
+    background: #776969;
+    grid-area: content-1;
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper section:nth-child(3){
+    background: #643030;
+    grid-area: content-2;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper section:nth-child(4){
+    background: #441818;
+    grid-area: content-3;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper aside:nth-child(5){
+    background: #937575;
+    grid-area: spam-1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.wrapper aside:nth-child(6){
+    background: #644C4C;
+    grid-area: spam-2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.wrapper footer{
+    grid-area: footer;
+    background: #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
